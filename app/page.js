@@ -400,6 +400,13 @@ export default function Home() {
           )}
         </TabsContent>
       </Tabs>
+
+      <footer className="mt-8 py-4 text-center text-gray-400 text-sm sm:text-base border-t border-gray-800">
+        Made by Robin Jain
+      </footer>
+
+
+
     </div>
   );
 }
